@@ -1,0 +1,13 @@
+Anotacoes do flutter
+
+flutter doctor
+verifica a saude do flutter
+
+flutter run
+roda o flutter
+
+flutter create nome_projeto
+criar projeto
+
+fvm flutter emulators
+exibe os celulares
